@@ -1,0 +1,17 @@
+Hard skills are as follows: 
+1.The basic theory of Software Testing
+2.Linux command line (terminal)/Git bash.Github
+3.HTTP methods, requests,responses
+4.JSON & XML
+5.API testing via POSTMAN(GET,POST,PUT,DELETE,creating variables,writing simple autotests,checking response)
+6.Creating Test cases,checklists,bug reports
+7.Test Design Technics
+8.Browser developer tools
+9.Mobile testing basics
+10.Android studio and ADB(android device manager)
+11.Charles
+12.Fiddler
+13.SQL basics(create,delete,drop,insert into,select,from,where,join)
+14.PostgreSQL database
+15.Scrum
+16.The basics of Python
